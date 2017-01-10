@@ -1,10 +1,11 @@
 .sidebar{
-	position: absolute;
+	position: fixed;
 	left: 0;
 	top: 0;
 	height: 100%;
 	width: 350px;
 	background: #2b2b2b;
+	overflow: auto;
 }
 
 .sidebar_text{
@@ -52,8 +53,8 @@
 .main_heading{
 	font-family: 'Lato', sans-serif;
 	font-size: 40px;
-	font-weight: lighter;
 	margin-left: 20px;
+	font-weight: lighter;
 }
 
 .research_dt{
@@ -69,4 +70,115 @@
 	font-size: 20px;
 	margin-left: 20px;
 	font-weight: lighter;
+}
+
+.teaching_dt{
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	margin-top: 30px;
+	margin-left: 20px;
+	font-weight: normal;
+}
+
+.teaching_dd{
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	margin-left: 20px;
+	font-weight: lighter;
+}
+
+.teaching_li{
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+.awards_li{
+    font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+.grants_li{
+    font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	margin-left: 20px;
+	margin-bottom: 40px;
+}
+
+.contact_h4{
+	font-family: 'Lato', sans-serif;
+	font-size: 40px;
+	margin-left: 40px;
+	margin-top: 40px;
+}
+
+.contact_h5{
+	font-family: 'Lato', sans-serif;
+	font-size: 30px;
+	margin-left: 40px;
+}
+
+.contact_h6{
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	margin-left: 40px;
+}
+
+.home_h4{
+	font-family: 'Lato', sans-serif;
+	font-size: 40px;
+	margin-left: 40px;
+	margin-top: 40px;
+}
+
+.home_h5{
+	font-family: 'Lato', sans-serif;
+	font-size: 30px;
+	margin-left: 40px;
+}
+
+.home_h6{
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	margin-left: 40px;
+}
+
+.home_li{
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	margin-left: 20px;
+}
+
+.education_li{
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	margin-left: 20px;
+}
+
+.contact_glyph{
+	margin-right: 40px;
+}
+
+.table_heading{
+	width: 100%;
+	margin-left: 0;
+	padding: 10px;
+	font-size: 25px;
+	font-family: 'Lato', sans-serif;
+	font-weight: lighter;
+}
+
+.table_row{
+	width: 100%;
+	margin-left: 0;
+	padding: 5px;
+	font-size: 20px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.table_col{
+	text-align: center;
 }
