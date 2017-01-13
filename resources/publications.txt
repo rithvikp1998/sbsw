@@ -1,0 +1,131 @@
+Shantanu Bhattacharya, J.M. Berg, S. Gangopadhyay	2005
+	Studies on surface wettability of PDMS and glass under oxygen plasma treatment and correlation with bond strength.	Journal of Microelectromechanical Systems, Vol.14, No.3, June 2005 
+
+
+Shantanu Bhattacharya, Yuanfang Gao, Steve Apperson, Rajesh Shende, S. Gangopadhyay
+	2006
+	A novel on-chip diagnosis method to detect flame velocity of nanoscale thermites	Journal of Energetic materials, Vol. 24, pp. 1-15, Jan. 2006. 
+
+
+Shantanu Bhattacharya, Venumadhav Korampally, Yuanfang Gao, Maslina Othman, Sheila A. Grant, Keshab Gangopadhyay, Shubhra Gangopadhyay
+	2007
+
+	Optimization of design and fabrication process for realization of a PDMS-Silicon DNA amplification chip
+	Journal of Microelectromechanical systems,Vol.16, pp.401-410, 2007 
+
+
+Shantanu Bhattacharya, Yuanfang Gao, Venumadhav Korampally, M.T. Othman, Sheila Grant, Keshab Gangopadhyay, Shubhra Gangopadhyay
+	2007	Mechanics of plasma exposed spin-on-glass (SOG) and polydimethyl siloxane (PDMS) surfaces and their impact on bond strength
+	Applied Surface Science, Vol. 253, no. 9, pp.4220-4225, 2007 
+
+Shantanu Bhattacharya, Jaesung Jang, Liju Yang, Demir Akin and Rashid Bashir	2007	BioMEMS and Nanothechnology based approaches for rapid detection of Biological entities- Invited Review	The Journal of  Rapid methods and automation in microbiology, Vol.15,  pp.1-32, 2007 
+
+Maruf Hossain, Senthil Subramanium, Shantanu Bhattacharya, Yuanfang Gao, Steve Apperson, Rajesh Shende, Suchi Guha, Shubhra Gangopadhyay	2007	Crystallization of amorphous silicon by self propagation of nanoenergetic thermites 
+	Journal of applied physics, Vol. 101, pp. 054509-1~6, 2007
+
+
+Shantanu Bhattacharya, Shuaib Salamat, Dallas Morrisette, Padmapriya Banada, Yishao Liu, Demir Akin, A.K. Bhunia, Michael Ladisch and Rashid Bashir	2008
+
+
+
+
+	PCR-based detection in a micro-fabricated platform
+
+	Lab on chip, Vol.8, 1130-1136, 2008.
+
+
+
+
+
+
+8	Shantanu Bhattacharya, Nripen Chanda, Deb Gangopadhyay, Keshab Gangopadhyay and Shubhra Gangopadhyay, 
+
+	2008	Low voltage capillary electrophoresis using high conductivity agarose nano-platinum composites.
+
+	Sensor Letters, Vol.6, 1~6, 2008. 
+
+9	Shantanu Bhattacharya, Nripen Chanda, Yi Shao Liu, Sheila A. Grant, Keshab Gangopadhyay, Rashid Bashir,  Paul Sharp and Shubhra Gangopadhyay
+	2008
+	Enhanced DNA separation rates on nano-platinum doped agarose
+	Journal of Bionanosciences, Vol.2, pp. 1-8, 2008. 
+
+10	Yi-Shao Liu, Padmapriya Banada, Shantanu Bhattacharya, Arun K. Bhunia and Rashid Bashir
+
+	2008	Electrical characterization of DNA molecules in solutions using DNA measurements
+	Applied Physics Letters, Vol. 92, 143902, 2008 
+
+11	Sangho Bok, Arnold A. Lubguban, Yuanfang Gao, Shantanu Bhattacharya,  Kevin Gillis, Sanju Gupta, Paul R. Sharp and Shubhra Gangopadhyay
+	2008	Synthesis of electrochemically active Silica matrix bound carbon based electrode materials via Sol-Gel process
+	Journal of Electrochemical Society, Vol. 155, No. 5, K91-K95, 2008. 
+
+12	Ok Kyng Koo, YiShao Liu, Shuaib Salamat, Shantanu Bhattacharya, Michael R. Ladisch, Rashid Bashir and Arun K. Bhunia,
+	2009
+	Targetted capture of pathogenic bacteria using a mammalian cell receptor coupled with dielectrophoresis on a biochip.
+	Analytical Chemistry, Vol. 81 (8), pp 3094–3101, 2009. 
+
+
+13	Anil Ghubade, Swarnasri Mandal, Rahul Chaudhury, Rajeev Kr. Singh and Shantanu Bhattacharya
+	2009	Dielectrophoretic Assisted Concentration of Micro-particles and their rapid quantitation based on optical means.
+
+	Biomedical Microdevices, Vol. 11 (5),pp. 987-995 2009.
+
+14	Yuanfang Gao, Shantanu Bhattacharya, Xiaohui Chen, Syed Barizuddin, Shubhra Gangopadhyay, Kevin D. Gillis
+
+	2009	A microfluidic cell trap device for automated measurement of quantal
+catecholamine release from cells
+	Lab on chip, Vol. 9, 3442 - 3446, 2009. 
+
+
+
+15	Shantanu Bhattacharya, R.K. Singh, Swarnasri Mandal, Sangho Bok, Venumadhav Korampally, Keshab Gangopadhyay, Shubhra Gangopadhyay
+
+	2010
+	Plasma modification of polymer surfaces and their utility in building Biomedical microdevices. (Invited Review)
+	Journal of Adhesion Science and Technology, Volume 24, 15-16, 2707-2739(33), 2010. 
+
+16	Rahul Chaudhury, R.K. Singh, Anil B. Ghubade, Swarnasri Mandal, Shantanu Bhattacharya
+	2010	Bilayered staggered Herringbone micromixers with Symmetric and Assymetric geometries	Microfluidics nanofluidics, Vol. 4, 419-425, 2010. 
+
+17	Arnab Ghosh, Tarak K. Patra, Rishi Kant, Rajeev Kr. Singh, Jayant K. Singh, Shantanu Bhattacharya
+	2011
+	Surfaces electrophoresis of ds-DNA across orthogonal pair of surfaces.
+	Applied Physics Letters, Vol. 98, 1,1-4, 2011. 
+18	Rishi Kant, Himanshu Singh, Monalisha Nayak, Shantanu Bhattacharya	2012	Optimization of design and characterization of a novel micro-pumping system with peristaltic motion	Microsystems Technologies,  2012 , DOI: 10.1007/s00542-012-1658-y 
+
+19	Rajeev Kumar Singh, Rishi kant, Mohammad Asfer, Bishakh Bhattacharya, Pradipta K. Panigrahi & Shantanu Bhattacharya 
+	2012	Passive vibration damping using polymer pads with micro-channel arrays 
+	Journal of Microelectromechanical Systems, 2012, DOI: 10.1109/JMEMS.2013.2241392
+
+
+20	Rajeev Kumar Singh, Ankur Gupta, Shantanu Bhattacharya
+
+	2013	Design and fabrication of 3-dimensional helical structures in polydimethylsiloxane for flow control applications
+	Microsystems Technologies, 2013, DOI: 10.1007/s00542-013-1738-7
+
+21	Monalisha Nayak, Deepak Singh, Himanshu Singh, Rishi Kant, Ankur Gupta,
+Shashank Shekhar Pandey, Swarnasri Mandal, Gurunath Ramanathan & Shantanu Bhattacharya
+	2013	Integrated sorting, concentration and realtime PCR detection system for sensitive detection of Micro-organisms 
+	Nature Scientific Reports , 20/11/2013, DOI:10.1038/srep03266
+
+22	Avinash Kumar , Ankur Gupta , Rishi Kant , Syed Nadeem Akhtar , Nachiketa Tiwari , J. Ramkumar , Shantanu Bhattacharya 
+	2013	Optimization of LASER machining process for the preparation of photo masks and its application to Micro-systems fabrication 
+	J. Micro/Nanolith. MEMS MOEMS. 12(4), 041203 (Sep 25, 2013)., DOI:10.1117/1.JMM.12.4.041203
+
+
+23	Ankur Gupta, Shashank Shekhar Pandey, Monalisha Nayak, Arnab Maity, Subhashish Basu Majumder, Shantanu Bhattacharya
+	2014	Hydrogen sensing based on nanoporous silica-embedded ultra dense ZnO nanobundles
+
+	RSC Adv., 2014, 4 (15), 7476 - 7482
+
+24	Ankur Gupta, Abhinav Srivastava, Cherian Joseph Mathai, Keshab Gangopadhyay, Shubhra Gangopadhyay, Shantanu Bhattacharya
+	2014	Nanoporous Palladium sensor for sensitive and rapi detection of Hydrogen
+	Sensor letters, 12, 1279-1285 , 2014
+
+
+25	Akshay Atwe, Ankur Gupta, Rishi Kant, Shayandev Sinha, Ishan Sharma, Shantanu Bhattacharya
+	2014	A novel microfludic switch for pH control using Chtosan based Hydrogels.
+	Microsystems Technology, DOI 10.1007/s00542-014-2112-0, 2014
+
+26	
+Vinay Kumar Patel, Shantanu Bhattacharya	2013	High-Performance Nanothermite Composites Based on Aloe-Vera-Directed CuO Nanorods	ACS Applied Materials and Interfaces, 5 (24), 13364-13374, 2014.
+
